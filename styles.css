@@ -1,0 +1,57 @@
+body{
+    background-color: #D8EFD3;
+    text-align: center;
+    font-family: "Varela Round", sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    padding-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+h1{
+    font-family: "Playwrite SK", cursive;
+    font-size: 5rem;
+    font-weight: bolder;
+    color: #55AD9B;
+}
+
+.card{
+    border: none;
+    background-color: transparent;
+    width: 80%;
+}
+
+.card-body{
+    padding: 0%;
+    color: #95D2B3;
+}
+
+.footer{
+    background-color: #F1F8E8;
+    padding: 2.5rem;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    color: #55AD9B;
+}
+
+.footer-link{
+    padding: 2%;
+    color: #55AD9B;
+    font-size: 1.2rem;
+}
+
+.footer a:hover{
+    color: #FFE083;
+    font-size: 1.5rem;
+}
+
+.footer p{
+    position: relative;
+    top: 25px;
+}
